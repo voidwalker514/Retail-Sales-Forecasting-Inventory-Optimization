@@ -1,0 +1,6 @@
+Product,Avg Demand,Std Dev,Safety Stock,Reorder Point
+Product_1,73.14,6.91,30.17,542.16
+Product_2,57.31,7.04,30.74,431.88
+Product_3,72.5,7.34,32.03,539.51
+Product_4,88.19,7.3,31.88,649.21
+Product_5,89.78,6.59,28.77,657.24
